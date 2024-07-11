@@ -7,7 +7,7 @@
       tHeader0
 
       .add('head', '+=2')
-      .to('.header__paralaxBlack', { duration: 0, opacity: 0, ease: "none", onComplete: cloudAnimation }, 'head')
+      .to('.header__paralaxBlack', { duration: 0, opacity: 1, ease: "none", onComplete: cloudAnimation }, 'head')
       .to('.header__paralaxColor', { duration: 0, opacity: 1, ease: "none", onComplete: islandAnimation }, 'head')
 
 

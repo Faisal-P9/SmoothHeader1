@@ -11,6 +11,7 @@ html {
   overflow-x: hidden; }
 
 body {
+  display: block;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   color: #000000;
